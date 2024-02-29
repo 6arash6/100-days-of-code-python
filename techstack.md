@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [6arash6/100-days-of-code-python](https://github.com/6arash6/100-days-of-code-python)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|24<br/>Tools used|02/08/24 <br/>Report generated|
+|24<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
